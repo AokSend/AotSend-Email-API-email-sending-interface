@@ -1,7 +1,6 @@
 # AotSend Email API email sending interface
 
 [![AotSend Email API]!](https://www.AotSend.com/)
-![Uploading img_v3_02dt_e6c6d1fc-35d2-4423-a31c-689dba6837dg.jpg…]()
 
 
 AotSend Official Website：[ **https://www.AotSend.com** ](https://www.AotSend.com)
