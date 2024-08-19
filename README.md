@@ -1,6 +1,7 @@
 # AotSend Email API email sending interface
 
 [![AotSend Email API]!](https://www.AotSend.com/)
+![20240819-165901](https://github.com/user-attachments/assets/f48cda41-579c-4a0e-8903-f1a3e45bb6cb)
 
 
 AotSend Official Website：[ **https://www.AotSend.com** ](https://www.AotSend.com)
@@ -54,7 +55,8 @@ Q: What is the box-entry rate of the AotSend email sending interface? Will it go
 A: For old domain names, after configuring the domain name resolution, they can generally be directly entered into the box, or some old domain names may need to be preheated for 1-5 days before entering the box. For new domain names, generally after 3-5 days of preheating, the box-entry rate will gradually increase from 20%, 40%, 60%, 80%, and slowly increase to 95%-98%. Generally, after 3-10 days of sending accumulation, the delivery rate can gradually reach 99% and above (the specific time is related to the sending volume). It is worth noting that new domain names generally have no weight and no sending records, so they cannot pass the whitelists of various post offices, resulting in the possibility that sent emails will go into the trash box. This phenomenon is normal and temporary. As long as the triggered emails are regular, and after a few days of continuous sending, if the emails are not reported as spam, the email content will gradually be identified as regular emails and delivered to the inbox. As the subsequent emails are sent more stably, the delivery rate and the rate of receiving emails will increase. Please do not worry.
 
 [![AotSend Email API]!](https://www.AotSend.com/)
-![Uploading img_v3_02dt_e6c6d1fc-35d2-4423-a31c-689dba6837dg.jpg…]()
+![20240819-165901](https://github.com/user-attachments/assets/d1a220f9-89ca-4413-9adf-0ca3da660d93)
+
 
 
 
